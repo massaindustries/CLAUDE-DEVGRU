@@ -1,0 +1,21 @@
+{
+  "name": "claude-devgru",
+  "description": "Military doctrine adapted to AI-agent workflows — eight skills covering planning, execution, comms, review, and coordination.",
+  "version": "1.0.0",
+  "author": { "name": "Francesco Massa" },
+  "homepage": "https://github.com/massaindustries/claude-devgru",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/massaindustries/claude-devgru.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent",
+    "doctrine",
+    "planning",
+    "ooda",
+    "red-team",
+    "multi-agent"
+  ]
+}
