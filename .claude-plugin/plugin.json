@@ -1,6 +1,6 @@
 {
   "name": "claude-devgru",
-  "description": "Military doctrine adapted to AI-agent workflows — eight skills covering planning, execution, comms, review, and coordination.",
+  "description": "Military doctrine adapted to AI-agent workflows — a single OODA-loop skill folding recon, red-team, wargame, mission-brief, and SITREP into one Boyd-loop iteration.",
   "version": "1.0.0",
   "author": { "name": "Francesco Massa" },
   "homepage": "https://github.com/massaindustries/claude-devgru",
@@ -13,9 +13,9 @@
     "skills",
     "agent",
     "doctrine",
-    "planning",
     "ooda",
     "red-team",
-    "multi-agent"
+    "wargame",
+    "recon"
   ]
 }
